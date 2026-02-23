@@ -2,12 +2,7 @@
 
 A high-performance, responsive portfolio built with the **MERN Stack** philosophy, featuring a clean **Glassmorphism UI**, smooth animations, and optimized asset delivery. This project serves as a comprehensive showcase of software engineering principles, UI/UX design, and scalable frontend architecture.
 # Screenshot
-<b>Dashboard & Navigation</b>
-
-
-
-
-<img src="./public/screenshot1.png" alt="Dashboard" width="400"/>
+<img src="./public/screenshot1.png" alt="Dashboard" width="full"/>
 
 ## 🛠️ Technical Stack
 
@@ -46,8 +41,7 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/gs27304/my-portfolio.git](https://github.com/gs27304/my-portfolio.git)
-
+git clone (https://github.com/gs27304/Portfolio_Gajendra.git)
 ```
 
 
@@ -81,11 +75,5 @@ npm run dev
 
 ---
 
-*Built with ❤️ and passion for clean code.*
-
-```
-
-
-**Would you like me to help you set up the deployment to Vercel so you can add the live link to this README?**
-
-```
+*Built with ❤️ and passion by Gajendra.*
+ 
