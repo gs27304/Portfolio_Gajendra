@@ -1,6 +1,8 @@
 # 🚀 Modern Full-Stack Developer Portfolio
 
 A high-performance, responsive portfolio built with the **MERN Stack** philosophy, featuring a clean **Glassmorphism UI**, smooth animations, and optimized asset delivery. This project serves as a comprehensive showcase of software engineering principles, UI/UX design, and scalable frontend architecture.
+
+* **My Resume:** [Live Link](https://portfolio-gajendra-pink.vercel.app/) 
 # Screenshot
 <img src="./public/screenshot1.png" alt="Dashboard" width="full"/>
 
