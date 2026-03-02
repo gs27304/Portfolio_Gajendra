@@ -57,7 +57,7 @@ const About = () => {
 
           <div className="flex flex-col sm:flex-row items-center gap-6">
             <a
-              href="https://drive.google.com/file/d/1XuY5BaOrLLD8VUl68J1SvGVb7vWQwbfK/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1WHCfH8p7dXmvXn8vPf4PNYqB_Cj5nRkK/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="group relative px-8 py-4 bg-slate-900 text-white rounded-2xl font-bold text-lg overflow-hidden transition-all hover:shadow-[0_20px_40px_rgba(0,0,0,0.1)] active:scale-95 w-full sm:w-auto text-center"
