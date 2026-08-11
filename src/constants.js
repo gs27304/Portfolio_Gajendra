@@ -55,8 +55,8 @@ import webverLogo from './assets/work_logo/web_dig.png';
 import cmLogo from './assets/work_logo/cm.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
-
-
+import jobTrackerLogo from './assets/work_logo/jobtracker.png';
+import linuxMonitorLogo from './assets/work_logo/linux.png';
 export const SkillsInfo = [
   {
     title: 'Frontend',
@@ -196,8 +196,17 @@ export const projects = [
     github: "https://github.com/gs27304/Ace-Interview",
     webapp: "https://ace-interview-delta.vercel.app",
   },
+   {
+    id: 2,
+    title: "PathoLens | Medical Analyzer",
+    description: "An AI-powered diagnostic tool that uses Gemini to transform complex lab reports into clear, actionable health insights through secure data processing.",
+    image: movierecLogo,
+    tags: ["Next.js", "TypeScript", "Supabase", "Gemini 1.5 Flash", "Framer Motion"],
+    github: "https://github.com/gs27304/medical-report-ai",
+    webapp: "https://medical-report-ai-nu.vercel.app/",
+  },
   {
-  id: 4,
+  id: 3,
 
   title: "Job Tracker | Placement Management Platform",
 
@@ -211,4 +220,13 @@ export const projects = [
 
   webapp: "https://your-job-tracker-url.vercel.app",
 },
+ {
+    id: 4,
+    title: "Linux Network Monitoring Tool",
+    description: "A Linux-based system monitoring tool developed using Python, psutil, Bash scripting, and cron automation.",
+    image: linuxMonitorLogo,
+    tags: ["Python 3", "psutil", "Rich", "Bash", "Linux (Ubuntu 24.04 WSL)", "Cron", "Git & GitHub"],
+    github: "https://github.com/gs27304/Linux-Network-Monitoring-Tool",
+    webapp: "https://github.com/gs27304/Linux-Network-Monitoring-Tool",
+  },
 ];
