@@ -139,10 +139,10 @@ export const experiences = [
   {
     id: 2,
     img: newtonschoolLogo,
-    role: "Technical Lead",
-    company: "Programming Society - IIITDMJ",
+    role: "Domain Lead",
+    company: "36 Hour Hackathon-IIITVM Gwalior",
     date: "Sept 2022 - June 2023",
-    desc: "Spearheaded technical workshops and hackathons at IIIT Jabalpur. Mentored student developers in full-stack architecture and Data Structures, fostering a culture of competitive programming and collaborative engineering.",
+    desc: "Spearheaded technical workshops and hackathons. Mentored student developers in full-stack architecture and Data Structures, fostering a culture of competitive programming and collaborative engineering.",
     skills: ["DSA", "Leadership", "Technical Mentorship", "Event Orchestration"],
   },
 ];
@@ -153,7 +153,7 @@ export const education = [
     img: glaLogo,
     school: "IIIT Jabalpur (IIITDMJ)",
     date: "2023 - 2027",
-    grade: "7.0 CGPA",
+    grade: "7.6 CGPA",
     degree: "Bachelor of Technology (ECE)",
     desc: "Focusing on Electronics & Communication while mastering Software Engineering fundamentals. Specializing in Scalable System Design, Data Structures, and Generative AI integration.",
   },
@@ -197,12 +197,18 @@ export const projects = [
     webapp: "https://ace-interview-delta.vercel.app",
   },
   {
-    id: 2,
-    title: "PathoLens | Medical Analyzer",
-    description: "An AI-powered diagnostic tool that uses Gemini to transform complex lab reports into clear, actionable health insights through secure data processing.",
-    image: movierecLogo,
-    tags: ["Next.js", "TypeScript", "Supabase", "Gemini 1.5 Flash", "Framer Motion"],
-    github: "https://github.com/gs27304/medical-report-ai",
-    webapp: "https://medical-report-ai-nu.vercel.app/",
-  },
+  id: 4,
+
+  title: "Job Tracker | Placement Management Platform",
+
+  description: "A full-stack MERN application designed to help students and job seekers organize and track their job applications, interview progress, application statuses, notes, and resumes in one centralized platform.",
+
+  image: jobTrackerLogo,
+
+  tags: ["MERN Stack", "MongoDB", "Express.js", "React.js", "Node.js", "JWT Authentication", "Tailwind CSS"],
+
+  github: "https://github.com/gs27304/Job_Tracker",
+
+  webapp: "https://your-job-tracker-url.vercel.app",
+},
 ];
